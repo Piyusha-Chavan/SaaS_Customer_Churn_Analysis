@@ -149,19 +149,19 @@ Includes:
 
 ## Executive Overview
 
-![Executive Overview](Dashboard Images/Page1.png)
+![Executive Overview](Page1.png)
 
 ---
 
 ## Revenue & Customer Analysis
 
-![Revenue & Customer Analysis](Dashboard Images/Page2.png)
+![Revenue & Customer Analysis](Page2.png)
 
 ---
 
 ## Customer Churn Analysis
 
-![Customer Churn Analysis](Dashboard Images/Page3.png)
+![Customer Churn Analysis](Page3.png)
 
 ---
 
