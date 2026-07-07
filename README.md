@@ -161,7 +161,7 @@ Includes:
 
 ## Customer Churn Analysis
 
-![Customer Churn Analysis](Page3.png)
+![Customer Churn Analysis](page3.png)
 
 ---
 
